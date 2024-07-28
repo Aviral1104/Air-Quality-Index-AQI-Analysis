@@ -1,9 +1,9 @@
 # Air-Quality-Index-AQI-Analysis
 
-##Overview
+## Overview
   - Analysis of Air Quality Index (AQI) data from various countries, focusing on the spatial distribution of AQI values, statistical summaries, correlation analysis, and the identification of cities with the highest AQI levels.
   
-##Dataset
+## Dataset
   - The dataset includes the following columns:
       - Country: Name of the country.
       - City: Name of the city.
@@ -20,20 +20,20 @@
       - lat: Latitude of the city.
       - lng: Longitude of the city.
     
-##Key Findings
+## Key Findings
   - Spatial Distribution: Visualizations of AQI values show geographical areas with varying air quality.
   - Statistical Summary: Summary statistics provide insights into the mean, minimum, maximum, and standard deviation of AQI values across cities.
   - Correlation Analysis: A correlation matrix reveals relationships between AQI parameters and geographical coordinates.
   - Top Cities: The analysis identifies the top 10 cities with the highest AQI values, highlighting significant pollution concerns.
 
-##Visualizations
+## Visualizations
   - AQI Maps: Generated maps illustrate the spatial distribution of AQI values and specific pollutants.
   - AQI Category Distribution: Bar charts display the distribution of cities across different AQI categories.
 
-##Conclusion
+## Conclusion
 This analysis provides valuable insights into global air quality, serving as a basis for further research and policy recommendations aimed at improving air quality standards.
 
-##Output
+## Output
 - ![no2_aqi_value_map](https://github.com/user-attachments/assets/26358fc6-ea37-427b-86f8-9454b643a87f)
 - ![pm2 5_aqi_value_map](https://github.com/user-attachments/assets/0ffd9457-ae21-439e-ae2d-4bf50346d831)
 - ![ozone_aqi_value_map](https://github.com/user-attachments/assets/49416630-5410-4830-a6d2-d7739cdc32cb)
