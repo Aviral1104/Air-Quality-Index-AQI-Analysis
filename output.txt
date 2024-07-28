@@ -1,0 +1,53 @@
+Column names:
+['Country', 'City', 'AQI Value', 'AQI Category', 'CO AQI Value', 'CO AQI Category', 'Ozone AQI Value', 'Ozone AQI Category', 'NO2 AQI Value', 'NO2 AQI Category', 'PM2.5 AQI Value', 'PM2.5 AQI Category', 'lat', 'lng']
+
+First few rows of the dataset:
+              Country              City  AQI Value AQI Category  CO AQI Value   
+0  Russian Federation        Praskoveya         51     Moderate             1  \
+1              Brazil  Presidente Dutra         41         Good             1   
+2              Brazil  Presidente Dutra         41         Good             1   
+3               Italy   Priolo Gargallo         66     Moderate             1   
+4              Poland         Przasnysz         34         Good             1   
+
+  CO AQI Category  Ozone AQI Value Ozone AQI Category  NO2 AQI Value   
+0            Good               36               Good              0  \
+1            Good                5               Good              1   
+2            Good                5               Good              1   
+3            Good               39               Good              2   
+4            Good               34               Good              0   
+
+  NO2 AQI Category  PM2.5 AQI Value PM2.5 AQI Category      lat      lng  
+0             Good               51           Moderate  44.7444  44.2031  
+1             Good               41               Good  -5.2900 -44.4900  
+2             Good               41               Good -11.2958 -41.9869  
+3             Good               66           Moderate  37.1667  15.1833  
+4             Good               20               Good  53.0167  20.8833  
+
+Statistics for AQI parameters:
+       AQI Value  CO AQI Value  Ozone AQI Value  NO2 AQI Value   
+mean   62.998682      1.342138        31.767355       3.819647  \
+min     7.000000      0.000000         0.000000       0.000000   
+max   500.000000    133.000000       222.000000      91.000000   
+std    43.091971      2.371379        22.839343       5.880677   
+
+      PM2.5 AQI Value  
+mean        59.821324  
+min          0.000000  
+max        500.000000  
+std         43.208298  
+
+Top 10 cities with highest AQI:
+                       Country          City  AQI Value
+203                   Pakistan  Bahawalnagar        500
+445                   Pakistan     Harunabad        500
+578                      India  Mahendragarh        500
+1623                     India       Phalodi        500
+1808                     India       Jodhpur        500
+3750                     India         Delhi        500
+3751                     India         Delhi        500
+3768  United States of America       Durango        500
+3769  United States of America       Durango        500
+3770  United States of America       Durango        500
+
+Analysis complete. Check the generated PNG files for visualizations.
+
