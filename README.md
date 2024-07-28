@@ -34,8 +34,13 @@
 This analysis provides valuable insights into global air quality, serving as a basis for further research and policy recommendations aimed at improving air quality standards.
 
 ##Output
-![no2_aqi_value_map](https://github.com/user-attachments/assets/26358fc6-ea37-427b-86f8-9454b643a87f)
-![pm2 5_aqi_value_map](https://github.com/user-attachments/assets/0ffd9457-ae21-439e-ae2d-4bf50346d831)
-![ozone_aqi_value_map](https://github.com/user-attachments/assets/49416630-5410-4830-a6d2-d7739cdc32cb)
-![aqi_value_map](https://github.com/user-attachments/assets/e042df48-17db-44fa-a6ec-a68205605fcc)
+- ![no2_aqi_value_map](https://github.com/user-attachments/assets/26358fc6-ea37-427b-86f8-9454b643a87f)
+- ![pm2 5_aqi_value_map](https://github.com/user-attachments/assets/0ffd9457-ae21-439e-ae2d-4bf50346d831)
+- ![ozone_aqi_value_map](https://github.com/user-attachments/assets/49416630-5410-4830-a6d2-d7739cdc32cb)
+- ![aqi_value_map](https://github.com/user-attachments/assets/e042df48-17db-44fa-a6ec-a68205605fcc)
+
+  - Image 1: Shows the overall spatial distribution of AQI values.
+  - Image 2: Displays the spatial distribution of Ozone AQI values.
+  - Image 3: Illustrates the spatial distribution of PM2.5 AQI values.
+  - Image 4: Presents the spatial distribution of NO2 AQI values.
 
